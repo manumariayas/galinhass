@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "No âmbito social, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 1",
+                texto: "Você ganhará medalha de ouro na sua modalidade, mas terá que ferir em alto nível seus adversários para ganhar e todo mundo saberá.",
                 afirmacao: "afirmação",
             },
             {
-                texto: "alternativa 2",
+                texto: "Tem a oportunidade de entrar automaticamente na sua faculdade dos sonhos, porém terá que sabotar a entrada do/da sua/seu irmã/irmão ou de um parente muito próximo.",
                 afirmacao: "afirmação",
             },
         ]
@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 3",
+                texto: "riará uma campanha para ajudar o meio ambiente e recrutar pessoas necessitadas(pobreza severa) para esse trabalho , mas será um trabalho escravo. ",
                 afirmacao: "afirmação",
             },
             {
-                texto: "alternativa 4",
+                texto: "Imagine que um amigo lhe peça para mentir em seu nome. Nesse caso, você se vê diante de uma das maiores soluções para o meio ambiente, mas precisa escolher entre manter a lealdade ao seu amigo ou mostrar a verdade.",
                 afirmacao: "afirmação",
             },
         ]
@@ -35,11 +35,11 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 5",
+                texto: "você terá a melhor tecnologia e com isso você terá a cura do câncer, mas uma pessoa da sua família terá câncer mas você não poderá ajudá-la mesmo sabendo dessa tecnologia que pode salvá-la.",
                 afirmacao: "afirmação",
             },
             {
-                texto: "alternativa 6",
+                texto: "um alto nível de tecnologia pode ver o futuro, mas no futuro acontecerá desastres mundiais que acabará com a vida na terra, você tem  opção de contar para todo ou tem opção de guardar para você e mesmo contando não terá salvação para esses desastres.",
                 afirmacao: "afirmação",
             },
         ]
